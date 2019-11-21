@@ -1,6 +1,6 @@
-package org.It1;
+package org.Iteracion1;
 
-public class Usuario {
+public class JefeMecanico extends Usuario {
 	private int _dNI;
 	private String _nombre;
 	private String _apellidos;
